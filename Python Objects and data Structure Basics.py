@@ -10,4 +10,4 @@ print(7 % 4) # prints out 3
 
 # pow
 print(2 ** 3) # prints out 8
-print( 2 + 10 * 10 + 3) # 105 
+print( 2 + 10 * 10 + 3) # 105
